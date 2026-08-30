@@ -19,13 +19,13 @@
   },
   {
     "name": "Anika Gupta",
-    "role": "Design, Linguistics",
+    "role": "Design",
     "number": "",
     "email": "r23606anika@dpsrkp.net"
   },
   {
     "name": "Aditya Das",
-    "role": "Hardware, Competitive Programming, Game Development, 3D Design",
+    "role": "Game Development, 3D Design",
     "number": "",
     "email": "r23912aditya@dpsrkp.net"
   },
@@ -48,9 +48,27 @@
     "email": "r23517ananya@dpsrkp.net"
   },
   {
-    "name": "Agrima Verma",
-    "role": "Motion Design",
+    "name": "Siddhant Dubey",
+    "role": "Machine Learning, Web Development, Competitive Programming, Hardware, Motion Design, App Development, Audio",
     "number": "",
-    "email": "r22959agrima@dpsrkp.net"
+    "email": "r24479siddhant@dpsrkp.net"
+  },
+  {
+    "name": "Ayush Goyal",
+    "role": "Linguistics",
+    "number": "",
+    "email": "r24296ayush@dpsrkp.net"
+  },
+  {
+    "name": "Krishna Naraayan",
+    "role": "Group Discussion, Quiz, Crossword, CTFs",
+    "number": "",
+    "email": "v09166krishna@dpsrkp.net"
+  },
+  {
+    "name": "Govind Naraayan",
+    "role": "Quiz, Crossword, Cryptic Hunts",
+    "number": "",
+    "email": "v09165govind@dpsrkp.net"
   }
 ]
