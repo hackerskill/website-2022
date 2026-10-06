@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { showExunToast } from "../../lib/exunToast";
 
-const registrationOpen = false;
+const registrationOpen = true;
 
 export default function Hero({ scrollToAboutRef }) {
   return (
@@ -19,7 +19,7 @@ export default function Hero({ scrollToAboutRef }) {
               target="_blank"
               rel="noreferrer"
             >
-              Register for Exun 2025
+              Register for Exun 2026
             </a>
           ) : (
             <button
@@ -28,7 +28,7 @@ export default function Hero({ scrollToAboutRef }) {
               }
               className="button text-lg font-medium"
             >
-              Register for Exun 2025
+              Register for Exun 2026
             </button>
           )}
         </div>
